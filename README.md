@@ -5,10 +5,10 @@ I am a Computer Science and Cybersecurity student at Saint Francis University. T
 
 ## Digital Forensics Reports
 
-- [Precious Investigation](Reports/Precious-Report.pdf)
-- [Mantooth Investigation](Reports/Mantooth-Report.pdf)
-- [Washer Investigation](Reports/Washer-Report.pdf)
-
+- [Precious Investigation](Digital-Forensics/Precious-Report.pdf)
+- [Mantooth Investigation](Digital-Forensics/Mantooth-Report.pdf)
+- [Washer Investigation](Digital-Forensics/Washer-Report.pdf)
+  
 ## Tools Used
 
 | Tool | Website | Description |
